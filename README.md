@@ -1,0 +1,2 @@
+# simdatamining
+tugas
